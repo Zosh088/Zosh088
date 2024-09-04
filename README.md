@@ -5,11 +5,11 @@
 
 - 💬 Ask me about **C#, SQL, Python (Panda Library)**
 
-- 📫 How to reach me **mjalizenande06@gmail.com**
+- 📫 How to reach me **mjalizenande06@gmail.com**https://www.instagram.com/sango_umthwane/
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="[https://linkedin.com/in/zenande_mjali](https://www.linkedin.com/in/zenande-mjali-b01b7b258/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="zenande_mjali" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/zenande-mjali-b01b7b258/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="zenande_mjali" height="30" width="40" /></a>
 <a href="https://instagram.com/sango_umthwane" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sango_umthwane" height="30" width="40" /></a>
 </p>
 

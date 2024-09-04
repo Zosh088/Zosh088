@@ -1,11 +1,12 @@
 <h1 align="center">Hi 👋, I'm Zenande Nqaba Sango Mjali</h1>
 <h3 align="center">Passionate developer exploring the world of code, eager to learn and contribute to open-source projects.</h3>
 
-- 🌱 I’m currently studying my Advanced Diploma in Information Technology at **Nelson Mandela University in South Africa.**
+- 🌱 I’m currently studying my Advanced Diploma in Information Technology at **Nelson Mandela University in South Africa. 🇿🇦
+**
 
-- 💬 Ask me about **C#, SQL, Python (Panda Library)**
+- 💬 Ask me about **C#, HTML, CSS, SQL, Python (Panda Library)**
 
-- 📫 How to reach me **mjalizenande06@gmail.com**https://www.instagram.com/sango_umthwane/
+- 📫 How to reach me **mjalizenande06@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
